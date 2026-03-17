@@ -37,7 +37,7 @@ const Navbar = () => {
           </ul>
         </details>
       </li>
-      <li><a>Item cheking github issue 5</a></li>
+      <li><a>Item cheking janina github issue 5</a></li>
     </ul>
   </div>
   <div className="navbar-end">
