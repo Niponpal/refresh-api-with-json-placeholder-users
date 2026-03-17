@@ -37,7 +37,7 @@ const Navbar = () => {
           </ul>
         </details>
       </li>
-      <li><a>Item</a></li>
+      <li><a>Item 5</a></li>
     </ul>
   </div>
   <div className="navbar-end">
