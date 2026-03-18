@@ -31,7 +31,7 @@ const Footer = () => {
 
       <footer className="footer bg-gray-50 text-gray-600 border-t border-gray-200 px-10 py-6">
         <aside className="items-center">
-          <p className="font-semibold text-lg text-gray-800">Hero.Io</p>
+          <p className="font-semibold text-lg text-gray-800">U-sers</p>
           <p className="text-sm">
             Building powerful apps for modern businesses 🚀
           </p>
