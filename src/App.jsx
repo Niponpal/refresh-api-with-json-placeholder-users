@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./components/About/About";
+import Contact from "./components/Contact/Contact";
 import Features from "./components/Features/Features";
 import Footer from "./components/Footer/Footer";
 import Hero from "./components/Hero/Hero";
@@ -13,6 +14,7 @@ function App() {
       <Hero></Hero>
       <Features></Features>
       <About></About>
+      <Contact></Contact>
       <State></State>
       <Footer></Footer>
     </>
