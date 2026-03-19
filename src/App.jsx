@@ -6,6 +6,7 @@ import Footer from "./components/Footer/Footer";
 import Hero from "./components/Hero/Hero";
 import Navbar from "./components/Navbar/Navbar";
 import State from "./components/State/State";
+import User from "./components/User/User";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <About></About>
       <Contact></Contact>
       <State></State>
+      <User></User>
       <Footer></Footer>
     </>
   );
