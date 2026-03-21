@@ -19,7 +19,7 @@ const State = () => {
             <p className="capitalize text-gray-50">total reviews</p>
             <h3 className="text-4xl font-extrabold text-gray-50">527K+</h3>
             <p className="mt-2 text-gray-50 capitalize">
-              46% more than last month
+              59% more than last month
             </p>
           </div>
           <div>
