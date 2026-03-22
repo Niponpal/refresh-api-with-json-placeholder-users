@@ -13,7 +13,7 @@ const Footer = () => {
         </nav>
 
         <nav>
-          <h6 className="footer-title">Company</h6>
+          <h6 className="footer-title">Company change</h6>
           <a className="link link-hover">About Us</a>
           <a className="link link-hover">Contact</a>
           <a className="link link-hover">Careers</a>
