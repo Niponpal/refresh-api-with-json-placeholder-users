@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <p>this is about section change</p>
+      <p>this is about section change updated again</p>
     </div>
   );
 };
