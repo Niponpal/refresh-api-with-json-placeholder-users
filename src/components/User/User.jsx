@@ -7,7 +7,7 @@ const User = () => {
       <h2>Here is the user edited changed</h2>
       <p className="user-desc">
         User can be pre-define in our other section to demotive into an another
-        personality.
+        personality. updated again
       </p>
     </div>
   );
