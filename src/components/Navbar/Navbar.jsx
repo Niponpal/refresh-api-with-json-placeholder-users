@@ -37,7 +37,7 @@ const Navbar = () => {
               <a>Users</a>
             </li>
             <li>
-              <a>Info</a>
+              <a>Info 2</a>
             </li>
           </ul>
         </div>
