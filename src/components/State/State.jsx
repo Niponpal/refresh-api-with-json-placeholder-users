@@ -20,7 +20,7 @@ const State = () => {
             <h3 className="text-4xl font-extrabold text-gray-50">527K+</h3>
             <p className="mt-2 text-gray-50 capitalize">
               59% more than last month change 59% more than last month change
-              updated again
+              updated again 2
             </p>
           </div>
           <div>
